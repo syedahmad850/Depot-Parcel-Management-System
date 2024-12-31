@@ -1,0 +1,65 @@
+Parcel System Initialized.
+Parcels loaded into ParcelMap.
+Customer added to queue: Andrew Robertson
+Customer added to queue: Ann Jones
+Customer added to queue: Blair Foster
+Customer added to queue: Bob Dawson
+Customer added to queue: Chris Smith
+Customer added to queue: Dave Jackson
+Customer added to queue: David Hunter
+Customer added to queue: Donald Murray
+Customer added to queue: Fiona Thoms
+Customer added to queue: Gillian Hamilton
+Customer added to queue: Harry Johnston
+Customer added to queue: Helen Webster
+Customer added to queue: Jack Houston
+Customer added to queue: Jo Hill
+Customer added to queue: Joe Woods
+Customer added to queue: John Brown
+Customer added to queue: Judy Hilman
+Customer added to queue: Keith Burns
+Customer added to queue: Lily Watson
+Customer added to queue: Lucy Grey
+Customer added to queue: Mary Brown
+Customer added to queue: Pamela Field
+Customer added to queue: Peter White
+Customer added to queue: Robert Murray
+Customer added to queue: Susan Turner
+Customer added to queue: Thomas Young
+Customer added to queue: Tim Smith
+Customer added to queue: Tony Lawson
+Customer added to queue: Ursula Milton
+Customer added to queue: Viola Nicholson
+Customers loaded into CollectionQueue.
+Processing Customer: Andrew Robertson
+Processing Customer: Ann Jones
+Processing Customer: Blair Foster
+Processing Customer: Bob Dawson
+Processing Customer: Chris Smith
+Processing Customer: Dave Jackson
+Processing Customer: David Hunter
+Processing Customer: Donald Murray
+Processing Customer: Fiona Thoms
+Processing Customer: Gillian Hamilton
+Processing Customer: Harry Johnston
+Processing Customer: Helen Webster
+Processing Customer: Jack Houston
+Processing Customer: Jo Hill
+Processing Customer: Joe Woods
+Processing Customer: John Brown
+Processing Customer: Judy Hilman
+Processing Customer: Keith Burns
+Processing Customer: Lily Watson
+Processing Customer: Lucy Grey
+Processing Customer: Mary Brown
+Processing Customer: Pamela Field
+Processing Customer: Peter White
+Processing Customer: Robert Murray
+Processing Customer: Susan Turner
+Processing Customer: Thomas Young
+Processing Customer: Tim Smith
+Processing Customer: Tony Lawson
+Processing Customer: Ursula Milton
+Processing Customer: Viola Nicholson
+Queue processing complete.
+Parcel System Shut Down.
